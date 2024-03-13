@@ -1,0 +1,11 @@
+equilibrate 10
+binsize 0.1
+diameter 1 1
+shell 1.1 1.5 0.05
+movie 0
+debug 0
+statistics 0
+species1 number 1.0
+seed -4 
+definition wrapping
+blocks 5 
